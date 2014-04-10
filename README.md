@@ -1,0 +1,1 @@
+This is a simple password generator written in C#. This is the progress that I have made with about 1 day of learning. Since I know a lot of Java, C# is an easy transition.
